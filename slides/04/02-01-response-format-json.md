@@ -1,6 +1,6 @@
 ## Formato JSON
 
-* Debería ser la prioridad;
-* Simple
-* Alta Legibilidad
-* Rápido
+* Debería ser la primera opción.
+* Simple.
+* Alta Legibilidad.
+* Rápido.

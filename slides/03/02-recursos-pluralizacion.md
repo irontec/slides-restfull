@@ -4,7 +4,7 @@
 * Es la única manera de mantener el nombre consistente con todos los métodos HTTP.
 
 <hr />
-* Existe una excepción con recursos únicos; con entidades que implementarían un singleton.
+* Existe una excepción con recursos únicos; con entidades que implementarían un patrón _singleton_.
 * Este tipo de entidades nunca llevarán un ID asociado.
 
     * /configuracion

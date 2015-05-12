@@ -12,7 +12,7 @@ GET /pedidos/?estado=enviados
 ````
 
 
-* Otras práctica recomendable crear **alias** que realicen búsquedas más complejas
+* Otra práctica recomendable crear **alias** que realicen búsquedas más complejas pero habituales
 
 ````http
 GET /pedidos/ganados_semana
