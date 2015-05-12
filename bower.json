@@ -1,0 +1,9 @@
+{
+  "name": "restfull-apis",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1",
+    "reveal-highlight-themes": "~8.3.0",
+    "reveal-irontec-theme": "~1.0.9"
+  }
+}

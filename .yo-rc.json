@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Restfull APIs",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "irontec",
+    "githubRepository": "slides-restfull"
+  }
+}
